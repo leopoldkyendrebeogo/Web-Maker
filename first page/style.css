@@ -5,6 +5,7 @@ body{
 
 
 
+
 .color-white{
      color: white;
      font-size: 25px;
@@ -27,6 +28,7 @@ color-blue{
 }
 
 
+
 a:hover{
   text-decoration: none;
   color: red;  
@@ -43,4 +45,9 @@ a:hover{
 .nav-height{
     padding-top: 15px;
     padding-bottom: 15px; 
+}
+
+.absolute-right{
+    position: absolute;
+    right: 15px;
 }
